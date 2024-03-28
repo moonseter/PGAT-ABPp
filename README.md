@@ -1,5 +1,5 @@
 # PGAT-ABPp
-The implementation of the paper "PGAT-ABPp: Harnessing Protein Language Models and Graph Attention Networks for Antibacterial Peptides Identification with Remarkable Accuracy".
+The implementation of the paper "PGAT-ABPp: Harnessing Protein Language Models and Graph Attention Networks for Antibacterial Peptide Identification with Remarkable Accuracy".
 
 # Requirements
 * Python 3.8.18
